@@ -12,7 +12,9 @@ While waiting for calls on Uber, I opened QPython3 on my cell phone and started 
 
 # Raspberry py scheme and peripherals
 
-<img width="300" alt="rename screenshot" src="https://github.com/BrunoGianetti/itraffic/blob/master/rasp.jpeg" src="https://github.com/BrunoGianetti/itraffic/blob/master/raspcam.jpeg" src="https://github.com/BrunoGianetti/itraffic/blob/master/raspled.jpeg">
+<img width="300" alt="rename screenshot" src="https://github.com/BrunoGianetti/itraffic/blob/master/rasp.jpeg"> 
+<img width="300" alt="rename screenshot"src="https://github.com/BrunoGianetti/itraffic/blob/master/raspcam.jpeg">
+<img width="300" alt="rename screenshot"src="https://github.com/BrunoGianetti/itraffic/blob/master/raspled.jpeg">
 
 # A script photo
 
